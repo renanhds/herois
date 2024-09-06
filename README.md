@@ -1,4 +1,4 @@
-## **Mobile Legends: Seu Guia de Heróis Descomplicado**
+## Mobile Legends: Seu Guia de Heróis Mágicos - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
